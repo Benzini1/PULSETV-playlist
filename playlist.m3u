@@ -1,9 +1,8 @@
 #EXTM3U
 
 # ===== المغرب =====
-#EXTINF:-1 TVG-name="2M" group-title="🇲🇦Morocco"، اسم القناة
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u88
+#EXTINF:-1 tvg-name="2M" group-title="🇲🇦Morocco",2M Monde
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1 TVG-name="alola" group-title="🇲🇦Morocco"، اسم القناة
-https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8?token=rmVtAiCGDDso07x3hFyFZb22MBt3p51ZYG3fN8HbUos&expires=1795120005&token_path=%2Fabr_corp%2F73_aloula_w1dqfwm
-
+#EXTINF:-1 tvg-name="Al Aoula" group-title="🇲🇦Morocco",Al Aoula
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_480p/chunks_dvr.m3u8
