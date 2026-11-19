@@ -1,0 +1,321 @@
+#EXTM3U
+
+# ===== المغرب =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇲🇦Morocco"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الجزائر =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇩🇿الجزائر"، اسم القناة
+https://your-stream-link.m3u8# ===== سلسلة =====
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | جميع السلاسل "، السلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | دراما"، مسلسل
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الكوميديا"، مسلسل
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | أكشن"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الجريمة"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | إثارة"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | رعب"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | رومانسية"، السلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | سلسلة Sci-Fi"،
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الفانتازيا"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | تركية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | "كوري"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | ياباني"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الصينية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | "الهندي"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الإسبانية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الفرنسية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | العربية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | المغرب"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الأطفال"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | أنمي"، سلسلة
+https://your-link.m3u8
+
+# ===== تونس =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇹🇳تونس"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== مصر =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇪🇬 مصر"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== السعودية =====
+#EXTINF:-1 tvg-name="اسم القناة" group-title="🇸🇦 السعودية العربية السعودية",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الإمارات =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇦🇪UAE",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== ===== قطر
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇶🇦قطر"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== فرنسا =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇫🇷فرنسا"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== إسبانيا =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇪🇸إسبانيا"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الولايات المتحدة =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🇺🇸USA"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== المملكة المتحدة =====
+#EXTINF:-1 tvg-name="اسم القناة" group-title="🇬🇧 المملكة المتحدة",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== ===== الرياضة
+#EXTINF:-1 tvg-name="اسم القناة" group-title="⚽ الرياضة",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== كرة القدم =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🏆football"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== أفلام =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🎬movies",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== ===== الأكشن
+#EXTINF:-1 TVG-name="اسم القناة" group-title="💥action",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== كوميديا =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="😂comedy"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== رعب =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="👻horror",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== سلسلة =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="📺series",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الرسوم المتحركة =====
+#EXTINF:-1 tvg-name="اسم القناة" group-title="🧸 الرسوم الكرتونية",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الأنمي =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🎌anime"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الأطفال =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="👶kids",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== أخبار =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="📰news",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== ===== وثائقي
+#EXTINF:-1 tvg-name="اسم القناة" group-title="🌍 وثائقي"، اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الموسيقى =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🎵music",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== راديو =====
+#EXTINF:-1 TVG-name="اسم الراديو" group-title="📻radio",اسم الراديو
+https://your-stream-link.m3u8
+
+# ===== ===== الدينية
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🕌religious",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== ===== الأعمال
+#EXTINF:-1 tvg-name="اسم القناة" group-title="💼 الأعمال",اسم القناة
+https://your-stream-link.m3u8
+
+# ===== الطبيعة =====
+#EXTINF:-1 TVG-name="اسم القناة" group-title="🦁nature",اسم القناة
+https://your-stream-link.m3u8   
+
+# ===== أفلام الفيديو حسب الطلب =====
+
+#EXTINF:-1 TVG-name="movie" group-title="VOD | الأفلام، فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | أكشن",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | كوميدي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | دراما",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | رعب",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | إثارة",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | رومانسي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | خيال علمي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | خيالي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | مغامرة",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | جريمة",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | رسوم متحركة",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | عائلي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | وثائقي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | حرب",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | غربي",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | كلاسيكيات",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | بوليوود",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | أفلام تركية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | أفلام كورية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | أفلام يابانية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | أفلام صينية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | أفلام فرنسية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | أفلام إسبانية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="فيديو حسب الطلب | أفلام عربية",فيلم
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="فيلم" group-title="VOD | أفلام مغربية",فيلم
+https://your-link.m3u8
+
+# ===== سلسلة =====
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | جميع السلاسل "، السلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | دراما"، مسلسل
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الكوميديا"، مسلسل
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | أكشن"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الجريمة"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | إثارة"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | رعب"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | رومانسية"، السلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | سلسلة Sci-Fi"،
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الفانتازيا"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | تركية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | "كوري"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | ياباني"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الصينية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | "الهندي"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الإسبانية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الفرنسية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | العربية"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | المغرب"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | الأطفال"، سلسلة
+https://your-link.m3u8
+
+#EXTINF:-1 tvg-name="سلسلة" group-title="سلسلة | أنمي"، سلسلة
+https://your-link.m3u8
